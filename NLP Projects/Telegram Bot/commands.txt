@@ -1,0 +1,6 @@
+conda create -p ./venv1/ python==3.7.5
+activate ./venv1
+pip install -r requirements.txt
+
+For running the command:
+python telebot.py
