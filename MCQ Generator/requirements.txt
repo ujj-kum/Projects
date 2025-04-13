@@ -1,0 +1,14 @@
+ipykernel
+pandas
+openai
+langchain
+langchain-community
+transformers
+torch
+pypdf
+accelerate
+python-dotenv
+
+# For downloading local packages in the virtual environment
+# and installing them in editable mode, use the following command:  
+-e.

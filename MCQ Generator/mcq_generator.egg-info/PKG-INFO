@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mcq-generator
+Version: 0.1
+Summary: A tool to generate MCQs from text
+Author: Ujjwal Kumar
+Author-email: batman.c137@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
